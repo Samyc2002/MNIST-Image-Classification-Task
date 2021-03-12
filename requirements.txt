@@ -1,0 +1,4 @@
+scikit-image
+flask
+pandas
+scikit-learn
